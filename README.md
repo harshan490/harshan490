@@ -1,234 +1,261 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=A.%20Harshan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems%20for%20the%20Real%20World&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=A.%20HARSHAN&fontSize=70&fontColor=00ffcc&animation=fadeIn&fontAlignY=55&desc=Crafting%20Intelligence%20%7C%20One%20Model%20at%20a%20Time&descSize=18&descAlignY=78&descFontColor=aaaaaa" width="100%"/>
+</div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Harshan+%F0%9F%91%8B;AI+%26+Data+Science+Undergrad+%40+CIT;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Building+Real-World+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=700&height=45&lines=Computer+Vision+Engineer+in+the+Making;Deep+Learning+%7C+Real-Time+AI+%7C+Backend+Dev;B.Tech+AI+%26+DS+%40+Chennai+Institute+of+Technology;Open+to+Internships+%26+Collaborations!" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshanAlagarsamy&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/HarshanAlagarsamy?label=Followers&style=flat-square&color=bf91f3&logo=github&logoColor=white" alt="GitHub Followers"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=harshan490&style=for-the-badge&color=00ffcc&label=PROFILE+VIEWS)](https://github.com/harshan490)
+&#160;&#160;
+[![GitHub followers](https://img.shields.io/github/followers/harshan490?style=for-the-badge&color=bf91f3&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/harshan490)
+
 </div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### `> whoami`
 
-```python
-class Harshan:
-    def __init__(self):
-        self.name        = "A. Harshan"
-        self.username    = "HarshanAlagarsamy"
-        self.location    = "Chennai, Tamil Nadu, India"
-        self.email       = "harshanalagarsamy@gmail.com"
-        self.degree      = "B.Tech – AI & Data Science @ CIT (2024–2028)"
+```yaml
+Name      : A. Harshan
+Role      : AI and Data Science Undergrad
+Institute : Chennai Institute of Technology (2024-2028)
+Location  : Chennai, Tamil Nadu, India
+Email     : harshanalagarsamy@gmail.com
+Focus     : Computer Vision, Deep Learning, Backend APIs
+Status    : Building cool things every day
+```
 
-        self.stack = [
-            "Python", "C++", "Java",
-            "TensorFlow", "PyTorch", "OpenCV",
-            "Flask", "FastAPI", "PostgreSQL", "MySQL"
-        ]
+### `> cat interests.txt`
 
-        self.domains = [
-            "Computer Vision",
-            "Deep Learning",
-            "Machine Learning",
-            "Backend Development",
-            "Real-Time AI Systems"
-        ]
-
-        self.currently_learning = [
-            "YOLOv9 & Advanced Object Detection",
-            "MLOps & Model Deployment Pipelines",
-            "Large Language Models & RAG",
-            "Cloud AI (AWS / GCP)"
-        ]
-
-        self.fun_fact  = "I built a voice assistant before finishing my first semester 🎙️"
-
-    def motto(self):
-        return "Build things that see, hear, and think — then ship them."
-
-me = Harshan()
-print(me.motto())
+```
+[*] Real-Time Object Detection
+[*] Underwater Visual AI Systems
+[*] Voice and Gesture Interfaces
+[*] Scalable REST API Design
+[*] Edge AI Deployment
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
+## ⚡ TECH ARSENAL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+</div>
 
-**AI / ML Frameworks**
+<div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Core Languages**
 
-**Backend & APIs**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffcc)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00ffcc)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ffcc)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ffcc)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ffcc)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+**AI and ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=yolo&logoColor=00ffcc)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+**Backend and APIs**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ffcc)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-**Tools & Concepts**
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/HarshanAlagarsamy">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshanAlagarsamy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/HarshanAlagarsamy">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshanAlagarsamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
 </div>
 
 ---
 
-## 🔥 GitHub Streak
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshanAlagarsamy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+## 📊 GITHUB INTEL
+
 </div>
 
----
-
-## 📈 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshanAlagarsamy&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshan490&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=aaaaaa&border_radius=12&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshan490&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=aaaaaa&langs_count=8&border_radius=12"/>
+
 </div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshanAlagarsamy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>🏭 Saint-Gobain India Pvt. Ltd. (INDEC 4.0) — Backend Development Intern &nbsp;|&nbsp; 21-Day Programme &nbsp;|&nbsp; Chennai, India</b></summary>
 
 <br/>
 
-> `Flask` `FastAPI` `PostgreSQL` `MySQL` `REST APIs` `Digital Transformation`
+<div align="center">
 
-- Developed scalable **RESTful APIs** using Flask and FastAPI for Saint-Gobain's INDEC 4.0 digital transformation initiative.
-- Integrated APIs with **PostgreSQL and MySQL** databases, enabling efficient real-world data handling and secure transactions.
-- Gained hands-on experience in **backend architecture** and enterprise-grade system design within a 21-day intensive programme.
-- Contributed to improving backend scalability and ensuring secure data pipelines across production systems.
+<img width="70%" src="https://streak-stats.demolab.com?user=harshan490&theme=dark&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff&stroke=0D1117&border_radius=12"/>
 
-</details>
+</div>
 
----
-
-## 🚀 Featured Projects
+<br/>
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| [🎯 Object Detection — YOLOv8](https://github.com/HarshanAlagarsamy) | `YOLOv8` `OpenCV` `Python` | Real-time multi-object recognition; data augmentation & optimisation for improved accuracy |
-| [🤖 AI Subaquatic Visual Enhancement](https://github.com/HarshanAlagarsamy) | `TensorFlow` `PyTorch` `OpenCV` | Underwater image dehazing, colour correction & contrast enhancement for ocean monitoring; real-time deployment |
-| [🔐 Face Recognition System](https://github.com/HarshanAlagarsamy) | `TensorFlow` `Deep Learning` `Python` | Deep learning-based face detection & identification; robust under varied lighting and angles |
-| [🎙️ Voice Assistant](https://github.com/HarshanAlagarsamy) | `Python` `SpeechRecognition` `pyttsx3` | Voice-controlled automation — web search, app launching & system operations |
-| [🖐️ Finger Detection System](https://github.com/HarshanAlagarsamy) | `TensorFlow` `OpenCV` `Python` | Real-time gesture tracking with edge detection; optimised for dynamic environments |
-| [🌐 Web Backend — Saint-Gobain](https://github.com/HarshanAlagarsamy) | `Flask` `FastAPI` `PostgreSQL` `MySQL` | RESTful APIs connected to production databases; improved scalability & secure transactions |
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshan490&theme=react-dark&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area_color=00ffcc&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎖️ Achievements & Certifications
-
 <div align="center">
 
-| | Achievement | Details |
-|---|-------------|---------|
-| 🏅 | **IBM SkillsBuild — AI Fundamentals** | Certified in core AI concepts and IBM's enterprise AI tools |
-| 🌐 | **Introduction to IoT & Digital Transformation** | Certified — applied in Saint-Gobain INDEC 4.0 internship |
-| 🤖 | **Introduction to Modern AI** | Foundational certification in modern AI methodologies |
-| 📊 | **Introduction to Data Science** | Certified in data science principles and workflows |
-| 🔒 | **Introduction to Cybersecurity** | Foundational cybersecurity certification |
-| 🏭 | **Industry Internship — Saint-Gobain** | Selected for elite INDEC 4.0 digital transformation programme |
+## 🏆 TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshan490&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
 ---
 
-## 🎓 Education
+<div align="center">
+
+## 💼 EXPERIENCE
+
+</div>
+
+<table align="center" width="90%">
+<tr>
+<td>
+
+**🏭 Saint-Gobain India Pvt. Ltd.**
+
+`INDEC 4.0 Digital Transformation Program` | Backend Intern | Chennai | 21 Days
+
+- Built production-grade **RESTful APIs** with Flask and FastAPI
+- Integrated **PostgreSQL and MySQL** for real-world enterprise data pipelines
+- Worked inside a large-scale **Industry 4.0** digital transformation initiative
+- Improved backend scalability and enforced secure data transaction patterns
+
+**Stack:** `Flask` `FastAPI` `PostgreSQL` `MySQL` `REST APIs`
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 B.Tech — Artificial Intelligence & Data Science | Chennai Institute of Technology, Tamil Nadu | 2024 – 2028 | Pursuing |
+## 🚀 PROJECTS
+
+</div>
+
+<div align="center">
+
+| Project | Tech | What it does |
+|:--------|:-----|:-------------|
+| **🎯 Real-Time Object Detection** | `YOLOv8` `OpenCV` `Python` | Multi-object detection with live video streams; augmented training for boosted accuracy |
+| **🌊 AI Subaquatic Enhancement** | `TensorFlow` `PyTorch` `OpenCV` | Dehazing and colour-correcting underwater footage for ocean monitoring in real time |
+| **🔐 Face Recognition System** | `TensorFlow` `Deep Learning` | Identifies faces under varied lighting and angles using deep neural networks |
+| **🎙️ Voice Assistant** | `Python` `SpeechRecognition` `pyttsx3` | Voice-driven automation: web search, app control, and system commands |
+| **🖐️ Finger Detection System** | `TensorFlow` `OpenCV` | Gesture recognition via edge detection, optimised for dynamic real-world environments |
+| **🌐 Backend APIs - Saint-Gobain** | `Flask` `FastAPI` `PostgreSQL` | Enterprise REST APIs with secure DB integration, built during internship |
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
+<div align="center">
+
+## 🎖️ ACHIEVEMENTS
+
+</div>
+
+<div align="center">
+
+| Badge | Achievement | Detail |
+|:-----:|:------------|:-------|
+| 🏅 | **IBM SkillsBuild - AI Fundamentals** | Enterprise AI concepts certified via IBM |
+| 🌐 | **IoT and Digital Transformation** | Certified; applied directly at Saint-Gobain INDEC 4.0 |
+| 🤖 | **Introduction to Modern AI** | Core modern AI methodologies |
+| 📊 | **Introduction to Data Science** | Data science workflows and principles |
+| 🔒 | **Introduction to Cybersecurity** | Foundational security certification |
+| 🏭 | **Saint-Gobain Industry Internship** | Competitive selection for elite INDEC 4.0 programme |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 EDUCATION
+
+</div>
+
+<div align="center">
+
+| Degree | Institution | Batch | Status |
+|:-------|:-----------|:------|:-------|
+| B.Tech - Artificial Intelligence and Data Science | Chennai Institute of Technology | 2024 - 2028 | Pursuing |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 CURRENTLY LOADING...
+
+</div>
+
+<div align="center">
 
 ```
-🤖 YOLOv9 & Advanced Object Detection  →  Custom datasets, multi-class tracking, edge deployment
-☁️  MLOps & Model Deployment           →  Docker, CI/CD for ML, model monitoring
-🧠 Large Language Models & RAG         →  LangChain, vector DBs, prompt engineering
-🌩️  Cloud AI                           →  AWS SageMaker, GCP Vertex AI
-🔬 Advanced Computer Vision            →  Transformers (ViT), segmentation, 3D vision
+ Skill                          Progress
+ ──────────────────────────────────────────────────────
+ YOLOv9 + Advanced Detection    ████████░░░░  Learning
+ MLOps + Model Deployment       ██████░░░░░░  In Progress
+ LLMs + RAG Pipelines           █████░░░░░░░  Exploring
+ Cloud AI (AWS / GCP)           ████░░░░░░░░  Starting
+ Advanced CV (ViT, 3D Vision)   ███████░░░░░  Deepening
 ```
 
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-harshanalagarsamy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshanalagarsamy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshan%20Alagarsamy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshanAlagarsamy)
-[![GitHub](https://img.shields.io/badge/GitHub-HarshanAlagarsamy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshanAlagarsamy)
-
 </div>
 
 ---
 
 <div align="center">
-  <i>"Build things that see, hear, and think — then ship them."</i>
+
+## 📡 CONNECT
+
+[![Gmail](https://img.shields.io/badge/Gmail-harshanalagarsamy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshanalagarsamy@gmail.com)
+&#160;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshan_Alagarsamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshan490)
+&#160;
+[![GitHub](https://img.shields.io/badge/GitHub-harshan490-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshan490)
+
+<br/>
+
+*"Build things that see, hear, and think - then ship them."*
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
