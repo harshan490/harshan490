@@ -178,7 +178,7 @@ Status    : Building cool things every day
 | **🎙️ Voice Assistant** | `Python` `SpeechRecognition` `pyttsx3` | Voice-driven automation: web search, app control, and system commands |
 | **🖐️ Finger Detection System** | `TensorFlow` `OpenCV` | Gesture recognition via edge detection, optimised for dynamic real-world environments |
 | **🌐 Backend APIs - Saint-Gobain** | `Flask` `FastAPI` `PostgreSQL` | Enterprise REST APIs with secure DB integration, built during internship |
-
+| **🎭 Face Emotion Reader** |`JAX` `Flax` `OpenCV` | Real-time emotion detection system using a custom CNN, featuring live webcam inference and face tracking |
 </div>
 
 ---
