@@ -179,6 +179,7 @@ Status    : Building cool things every day
 | **🖐️ Finger Detection System** | `TensorFlow` `OpenCV` | Gesture recognition via edge detection, optimised for dynamic real-world environments |
 | **🌐 Backend APIs - Saint-Gobain** | `Flask` `FastAPI` `PostgreSQL` | Enterprise REST APIs with secure DB integration, built during internship |
 | **🎭 Face Emotion Reader** |`JAX` `Flax` `OpenCV` | Real-time emotion detection system using a custom CNN, featuring live webcam inference and face tracking |
+| **🤖 Elyx AI** | `Next.js` `NestJS` `PostgreSQL` `Redis` `Pinecone` | Autonomous OS featuring a block-based rich text editor with real-time sync, a multi-agent AI engine with RAG capabilities, and an automation rule engine |
 </div>
 
 ---
