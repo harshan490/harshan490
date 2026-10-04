@@ -1,100 +1,63 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=A.%20HARSHAN&fontSize=72&fontColor=00ffcc&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20COMPUTER%20VISION%20%7C%20AGENTIC%20SYSTEMS&descSize=18&descAlignY=68&descFontColor=aaaaaa" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=A.%20HARSHAN&fontSize=72&fontColor=00ffcc&animation=fadeIn&fontAlignY=45&desc=AI%20%7C%20COMPUTER%20VISION%20%7C%20AGENTIC%20SYSTEMS&descSize=18&descAlignY=68&descFontColor=aaaaaa" width="100%"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2600&pause=900&color=00FFCC&center=true&vCenter=true&width=850&height=50&lines=Building+Systems+That+See%2C+Reason+%26+Act;Artificial+Intelligence+%26+Data+Science+Undergrad;Computer+Vision+%7C+Deep+Learning+%7C+Agentic+AI;Real-Time+AI+%7C+Backend+Engineering+%7C+LLM+Systems;Turning+Research+Ideas+Into+Working+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2600&pause=900&color=00FFCC&center=true&vCenter=true&width=900&height=50&lines=Building+Systems+That+See%2C+Reason+%26+Act;Artificial+Intelligence+%26+Data+Science;Computer+Vision+%7C+Deep+Learning+%7C+Agentic+AI;Real-Time+AI+%7C+Backend+Engineering+%7C+LLM+Systems;Turning+Ideas+Into+Working+Intelligent+Systems" alt="Typing SVG">
 
-<br/>
+<br><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=harshan490&style=for-the-badge&color=00ffcc&label=PROFILE+VIEWS)](https://github.com/harshan490)
-[![Followers](https://img.shields.io/github/followers/harshan490?style=for-the-badge&logo=github&label=FOLLOWERS&color=bf91f3&labelColor=0d1117)](https://github.com/harshan490)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fharshan490&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=00ffcc&labelColor=0d1117)](https://github.com/harshan490?tab=repositories)
-[![GitHub](https://img.shields.io/badge/GitHub-harshan490-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc)](https://github.com/harshan490)
+<a href="https://github.com/harshan490">
+<img src="https://komarev.com/ghpvc/?username=harshan490&style=for-the-badge&color=00ffcc&label=PROFILE+VIEWS">
+</a>
+
+<a href="https://github.com/harshan490?tab=followers">
+<img src="https://img.shields.io/github/followers/harshan490?style=for-the-badge&logo=github&label=FOLLOWERS&color=bf91f3&labelColor=0d1117">
+</a>
+
+<a href="https://github.com/harshan490?tab=repositories">
+<img src="https://img.shields.io/github/stars/harshan490?style=for-the-badge&logo=github&label=STARS&color=00ffcc&labelColor=0d1117">
+</a>
+
+<img src="https://img.shields.io/github/last-commit/harshan490/harshan490?style=for-the-badge&color=00ffcc&labelColor=0d1117&label=PROFILE+UPDATED">
 
 </div>
 
 ---
 
-<!-- ========================= IDENTITY ========================= -->
-
 <div align="center">
 
 ## `> INITIALIZING HARSHAN...`
 
-```text
+~~~text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   A. HARSHAN                                                 ║
-║   ─────────────────────────────────────────────────────────  ║
 ║                                                              ║
-║   Artificial Intelligence & Data Science                     ║
-║   Chennai Institute of Technology                            ║
+║   ARTIFICIAL INTELLIGENCE & DATA SCIENCE                     ║
+║   CHENNAI INSTITUTE OF TECHNOLOGY                            ║
 ║                                                              ║
-║   ┌──────────────────────────────────────────────────────┐   ║
-║   │  PERCEPTION   →   REASONING   →   ACTION             │   ║
-║   │  Computer CV      Agentic AI      Automation         │   ║
-║   └──────────────────────────────────────────────────────┘   ║
+║       PERCEPTION  →  REASONING  →  ACTION                    ║
+║                                                              ║
+║       COMPUTER VISION   AGENTIC AI   AUTOMATION              ║
 ║                                                              ║
 ║   STATUS : BUILDING                                          ║
 ║   MODE   : SYSTEMS THINKING                                  ║
 ║   STACK  : AI + VISION + BACKEND + AGENTS                   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+~~~
 
 </div>
 
 ---
 
-<!-- ========================= ASCII PROFILE ========================= -->
-
-<div align="center">
-
-## 🖥️ `PROFILE.ASCII`
-
-<!--
-Generate a personalized ASCII profile card using:
-https://github.com/crafter-station/gh-ascii
-
-After generating the SVG, place it in this repository as:
-assets/harshan-ascii.svg
-
-Then replace the commented block below with:
-
-<img src="./assets/harshan-ascii.svg" width="850"/>
-
--->
-
-```text
-                 ╭──────────────────────────────╮
-                 │        A .  H A R S H A N    │
-                 │                              │
-                 │       AI / DATA SCIENCE     │
-                 │                              │
-                 │   SEE  →  THINK  →  ACT     │
-                 ╰──────────────────────────────╯
-
-             ██████╗ ██╗    ██╗
-             ██╔══██╗██║    ██║
-             ██████╔╝██║ █╗ ██║
-             ██╔══██╗██║███╗██║
-             ██║  ██║╚███╔███╔╝
-             ╚═╝  ╚═╝ ╚══╝╚══╝
-```
-
-</div>
-
----
-
-<!-- ========================= WHO AM I ========================= -->
-
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## `> whoami`
 
-```yaml
+~~~yaml
 Name        : A. Harshan
 Role        : AI & Data Science Undergraduate
 University  : Chennai Institute of Technology
@@ -108,50 +71,45 @@ Primary Focus:
   - LLM Systems
   - Backend Engineering
   - Real-Time AI
+~~~
 
-Engineering Style:
-  - End-to-end systems
-  - Real-time inference
-  - Automation
-  - Experimentation
-  - Rapid learning
-```
+### `> mission.txt`
 
-### `> cat mission.txt`
-
-```text
+~~~text
 Build intelligent systems that can perceive the world,
 reason over information, remember context, and take action.
 
 Not just models.
 
 Systems.
-```
+~~~
 
-<br clear="right"/>
+<br clear="right">
 
 ---
 
-<!-- ========================= CORE ========================= -->
-
 <div align="center">
 
-## ⚡ CORE ENGINEERING
+# ⚡ CORE ENGINEERING
 
-</div>
-
-<table align="center">
+<table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 👁️ PERCEPTION
 
-Computer Vision  
-Deep Learning  
-Real-Time Inference  
-Object Detection  
-Gesture Recognition  
-Image Enhancement  
+Computer Vision
+
+Deep Learning
+
+Real-Time Inference
+
+Object Detection
+
+Gesture Recognition
+
+Image Enhancement
 
 </td>
 
@@ -159,12 +117,17 @@ Image Enhancement
 
 ### 🧠 INTELLIGENCE
 
-Agentic AI  
-LLM Systems  
-Vector Retrieval  
-Reinforcement Learning  
-Multi-Agent Systems  
-Tool Orchestration  
+Agentic AI
+
+LLM Systems
+
+Vector Retrieval
+
+Reinforcement Learning
+
+Multi-Agent Systems
+
+Tool Orchestration
 
 </td>
 
@@ -172,62 +135,70 @@ Tool Orchestration
 
 ### ⚙️ SYSTEMS
 
-REST APIs  
-Backend Engineering  
-Microservices  
-Databases  
-Model Deployment  
-Automation  
+REST APIs
+
+Backend Engineering
+
+Microservices
+
+Databases
+
+Model Deployment
+
+Automation
 
 </td>
+
 </tr>
 </table>
-
----
-
-<!-- ========================= TECH STACK ========================= -->
-
-<div align="center">
-
-## 🧰 TECH ARSENAL
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
-
-<br/><br/>
-
-### AI / ML / Computer Vision
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-<br/><br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=D00000)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=00FFCC)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logoColor=00FFCC)
-
-### Backend / Data / Retrieval
-
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00FFCC)
-![Vector Search](https://img.shields.io/badge/Vector_Search-000000?style=for-the-badge&logo=databricks&logoColor=00FFCC)
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" />
 
 </div>
 
 ---
 
-<!-- ========================= FLAGSHIP SYSTEMS ========================= -->
+<div align="center">
+
+# 🧰 TECH ARSENAL
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&perline=6" alt="Programming Languages">
+
+<br><br>
+
+### AI / ML / Computer Vision
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" alt="AI Technologies">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=D00000">
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logoColor=00FFCC">
+
+<br><br>
+
+### Backend / Data / Retrieval
+
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791">
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/Vector_Search-000000?style=for-the-badge&logo=databricks&logoColor=00FFCC">
+
+<br><br>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker&perline=5" alt="Development Tools">
+
+</div>
+
+---
 
 <div align="center">
 
@@ -237,15 +208,18 @@ Automation
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 ULTRON
+<td width="50%" valign="top">
 
-**Autonomous Agentic AI System**
+## 🤖 ULTRON
+
+### Autonomous Agentic AI System
 
 `Local LLMs` `Vector Memory` `Tool Orchestration`
 
-A self-improving autonomous agent designed around:
+An autonomous AI system focused on building intelligent workflows that can reason, plan, use tools and execute complex tasks.
+
+**Core capabilities**
 
 - Dynamic multi-agent orchestration
 - Tool routing
@@ -253,69 +227,100 @@ A self-improving autonomous agent designed around:
 - Local LLM reasoning
 - External tool chains
 - Automated error correction
-- Multi-step autonomous workflows
-- Task automation benchmarking
+- Multi-step task execution
+- Autonomous workflow execution
 
-> **Perceive → Reason → Plan → Execute → Learn**
+~~~text
+PERCEIVE
+   ↓
+REASON
+   ↓
+PLAN
+   ↓
+EXECUTE
+   ↓
+LEARN
+~~~
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 CORTEX AI
+## 🧠 CORTEX AI
 
-**Meeting Intelligence Platform**
+### Meeting Intelligence Platform
 
 `FastAPI` `Speaker Diarisation` `Vector Search`
 
-Built to transform raw meetings into structured intelligence:
+A meeting intelligence platform that transforms raw conversations into structured knowledge.
 
-- Real-time transcription
+**Core capabilities**
+
+- Real-time audio transcription
 - Multi-speaker diarisation
-- LLM synthesis
+- Context-aware LLM synthesis
 - Automated meeting minutes
 - Action-item extraction
 - Topic heatmaps
 - Semantic Q&A
 - Vector-indexed meeting archives
 
-> **Audio → Context → Intelligence**
+~~~text
+AUDIO
+  ↓
+CONTEXT
+  ↓
+INTELLIGENCE
+~~~
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🖐️ HOLOUI
+<td width="50%" valign="top">
 
-**Contactless Gesture Desktop Interface**
+## 🖐️ HOLOUI
+
+### Contactless Gesture Desktop Interface
 
 `MediaPipe` `OpenCV` `HCI`
 
-A real-time computer-vision interface for OS control.
+A real-time computer vision interface for contactless operating-system control.
+
+**Core capabilities**
 
 - Hand landmark tracking
 - Multi-finger spatial mapping
 - Gesture recognition
-- Mouse / keyboard control
+- Mouse control
+- Keyboard control
 - Window actions
 - Jitter reduction
-- 60 FPS interaction
+- Smooth 60 FPS interaction
 
-> **Vision → Gesture → Interface**
+~~~text
+VISION
+  ↓
+GESTURE
+  ↓
+INTERACTION
+~~~
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌊 SUBAQUATIC AI
+## 🌊 SUBAQUATIC AI
 
-**AI-Based Visual Enhancement System**
+### AI-Based Visual Enhancement
 
 `TensorFlow` `PyTorch` `OpenCV`
 
-Deep-learning based underwater visual restoration for ocean-monitoring workloads.
+A deep-learning system designed to restore underwater image clarity for ocean-monitoring workloads.
+
+**Core capabilities**
 
 - Dehazing
 - Colour correction
@@ -324,42 +329,45 @@ Deep-learning based underwater visual restoration for ocean-monitoring workloads
 - High-turbidity enhancement
 - Real-time stream processing
 
-> **Restore → Enhance → Detect**
+~~~text
+RESTORE
+   ↓
+ENHANCE
+   ↓
+DETECT
+~~~
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ========================= PROJECT MATRIX ========================= -->
-
 <div align="center">
 
-## 🚀 PROJECT MATRIX
+# 🚀 PROJECT MATRIX
 
 </div>
 
-| System | Domain | Stack | Core Capability |
+| Project | Domain | Technology | Capability |
 |:---|:---|:---|:---|
-| 🤖 **ULTRON** | Agentic AI | Local LLMs · Vector Memory | Autonomous multi-step task execution |
-| 🧠 **CORTEX AI** | AI / NLP | FastAPI · Vector Search | Meeting intelligence & semantic Q&A |
+| 🤖 **ULTRON** | Agentic AI | Local LLMs · Vector Memory | Autonomous multi-step execution |
+| 🧠 **CORTEX AI** | AI / NLP | FastAPI · Vector Search | Meeting intelligence |
 | 🖐️ **HOLOUI** | Computer Vision | MediaPipe · OpenCV | Contactless OS interaction |
-| 🌊 **Subaquatic AI** | Deep Learning | TensorFlow · PyTorch · OpenCV | Underwater image enhancement |
+| 🌊 **Subaquatic AI** | Deep Learning | TensorFlow · PyTorch · OpenCV | Underwater visual enhancement |
 | 🎓 **Adaptive Learning** | Reinforcement Learning | DQN · MDP | Personalized learning paths |
-| 🏭 **Enterprise Backend** | Backend | Flask · FastAPI · PostgreSQL · MySQL | Digital transformation APIs |
-| 🙂 **Emotion Recognition** | Computer Vision | TensorFlow/Keras · CNN | Real-time facial emotion classification |
-| 👤 **Face Recognition** | Deep Learning | TensorFlow · Metric Learning | Face identification |
+| 🏭 **Enterprise Backend** | Backend Engineering | Flask · FastAPI · PostgreSQL · MySQL | Enterprise REST APIs |
+| 🙂 **Emotion Recognition** | Computer Vision | TensorFlow/Keras · CNN | Real-time emotion detection |
+| 👤 **Face Recognition** | Deep Learning | TensorFlow · Deep Metric Learning | Face identification |
 | 🎯 **Object Detection** | Computer Vision | YOLOv8 · OpenCV | Real-time object detection |
-| 🖐️ **Gesture Detection** | Computer Vision | TensorFlow · OpenCV | Finger & gesture recognition |
+| 🖐️ **Gesture Detection** | Computer Vision | TensorFlow · OpenCV | Real-time gesture recognition |
 
 ---
 
-<!-- ========================= EXPERIENCE ========================= -->
-
 <div align="center">
 
-## 🏭 EXPERIENCE
+# 🏭 EXPERIENCE
 
 </div>
 
@@ -367,29 +375,31 @@ Deep-learning based underwater visual restoration for ocean-monitoring workloads
 <tr>
 <td>
 
-### Saint-Gobain India Pvt. Ltd. — INDEC 4.0
+## Saint-Gobain India Pvt. Ltd.
 
-**Intern · Jun 2025 – Jul 2025 · Guindy, Chennai**
+### INDEC 4.0 — Backend / Digital Transformation Intern
 
-```text
+**June 2025 – July 2025 · Guindy, Chennai**
+
+~~~text
 ROLE
-└── Backend Engineering / Digital Transformation
+│
+├── Backend Engineering
+├── Digital Transformation
+├── Enterprise Data Systems
+└── Cross-functional Engineering
+~~~
 
-WORK
-├── Scalable RESTful API development
-├── Real-world enterprise data systems
-├── Digital transformation tooling
-├── Operational workflow improvement
-└── Cross-functional engineering collaboration
+### Work
 
-STACK
-├── Flask
-├── FastAPI
-├── PostgreSQL
-└── MySQL
-```
+- Delivered backend services and digital-transformation tooling for the INDEC 4.0 programme.
+- Built scalable RESTful services for real-world enterprise data systems.
+- Worked with operational workflows and engineering teams.
+- Contributed to improving project workflows and communication.
 
-> Built backend services and digital-transformation tooling for the INDEC 4.0 programme, working with real-world data systems and cross-functional engineering teams.
+### Technology
+
+`Flask` `FastAPI` `PostgreSQL` `MySQL` `REST APIs`
 
 </td>
 </tr>
@@ -397,186 +407,204 @@ STACK
 
 ---
 
-<!-- ========================= CERTIFICATIONS ========================= -->
-
 <div align="center">
 
-## 🎓 CERTIFICATION MATRIX
+# 🎓 CERTIFICATION MATRIX
 
 </div>
 
-| Provider | Certifications / Learning |
+| Organization | Certifications / Learning Areas |
 |:---|:---|
-| ☁️ **Amazon Web Services** | AWS IoT Learning Plan · AWS IoT SiteWise · Managing AWS IoT Devices at Scale · Securely Connecting IoT Devices to the Cloud · Analyzing & Visualizing IoT Device Data · Kinesis Video Streams + more |
-| 🤖 **ServiceNow** | Agentic AI & AI Agents · Now Assist · Predictive Intelligence · Agent Intelligence · Natural Language Understanding · Creator Studio · Enterprise AI Governance + more |
+| ☁️ **Amazon Web Services** | AWS IoT Learning Plan · AWS IoT SiteWise · Managing AWS IoT Devices at Scale · Securely Connecting AWS IoT Devices to the Cloud · Analyzing & Visualizing IoT Device Data · Amazon Kinesis Video Streams |
+| 🤖 **ServiceNow** | Agentic AI & AI Agents · Now Assist · Predictive Intelligence · Agent Intelligence · Natural Language Understanding · Creator Studio · Enterprise AI Governance |
 | 💙 **IBM SkillsBuild** | AI Fundamentals · Modern AI · Data Science · IoT & Digital Transformation · Cybersecurity |
 
-**30+ certification / learning credentials across AWS, ServiceNow and IBM SkillsBuild.**
-
 ---
-
-<!-- ========================= GITHUB INTEL ========================= -->
 
 <div align="center">
 
-# 📡 GITHUB INTELLIGENCE
+# 📊 GITHUB INTELLIGENCE
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshan490&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=aaaaaa&border_radius=12&include_all_commits=true"/>
+<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshan490&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=aaaaaa&langs_count=8&border_radius=12"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshan490&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=AAAAAA&include_all_commits=true" alt="GitHub Statistics">
 
-<br/><br/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshan490&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=AAAAAA&langs_count=8" alt="Top Languages">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=harshan490&theme=dark&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff&stroke=0D1117&border_radius=12"/>
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=harshan490&theme=dark&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=AAAAAA&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117" alt="GitHub Streak">
 
 </div>
 
 ---
 
-<!-- ========================= FULL YEAR CONTRIBUTION ========================= -->
-
 <div align="center">
 
-## 🗓️ FULL-YEAR CONTRIBUTION MATRIX
+# 🗓️ FULL YEAR CONTRIBUTION CALENDAR
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshan490&custom_title=HARSHAN%20%E2%80%94%20YEARLY%20ACTIVITY&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area_color=00ffcc&area=true&hide_border=true&radius=12" width="96%"/>
+<br>
 
-</div>
+<img src="https://ghchart.rshah.org/00ffcc/harshan490" width="95%" alt="GitHub Contribution Calendar">
 
-<br/>
+<br><br>
 
-<div align="center">
-
-### 🐍 CONTRIBUTION SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshan490/harshan490/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshan490/harshan490/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/harshan490/harshan490/output/github-contribution-grid-snake-dark.svg" width="95%">
-</picture>
+<sub>GitHub contribution activity across the year</sub>
 
 </div>
 
 ---
 
-<!-- ========================= 3D CALENDAR ========================= -->
-
 <div align="center">
 
-## 🌐 3D CONTRIBUTION CALENDAR
+# 🏆 TROPHY WALL
 
-<!--
-Enable github-profile-3d-contrib through GitHub Actions.
+<br>
 
-After the action generates the SVG, place the generated image
-inside the profile repository and use:
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
-
--->
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution calendar"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshan490&theme=algolia&no-frame=true&no-bg=true&row=2&column=7&margin-w=8&margin-h=8" width="95%" alt="GitHub Trophies">
 
 </div>
 
 ---
 
-<!-- ========================= TROPHIES ========================= -->
-
 <div align="center">
 
-## 🏆 TROPHY WALL
+# 📈 CONTRIBUTION ACTIVITY
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshan490&theme=algolia&no-frame=true&no-bg=true&row=2&column=7&margin-w=8&margin-h=8"/>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshan490&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=HARSHAN%20%7C%20CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity">
 
 </div>
 
 ---
 
-<!-- ========================= ACTIVITY ========================= -->
-
 <div align="center">
 
-## 📈 ACTIVITY STREAM
+# 🔥 DEVELOPMENT SIGNAL
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshan490&bg_color=0d1117&color=00ffcc&line=bf91f3&point=ffffff&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY" width="96%"/>
+<table>
+<tr>
+
+<td align="center">
+
+### 🧠 AI
+
+Deep Learning
+
+Agentic Systems
+
+LLMs
+
+RAG
+
+Reinforcement Learning
+
+</td>
+
+<td align="center">
+
+### 👁️ VISION
+
+Computer Vision
+
+YOLOv8
+
+OpenCV
+
+MediaPipe
+
+Image Enhancement
+
+</td>
+
+<td align="center">
+
+### ⚙️ ENGINEERING
+
+FastAPI
+
+Flask
+
+PostgreSQL
+
+MySQL
+
+REST APIs
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ========================= TERMINAL ========================= -->
-
 <div align="center">
 
-## `> system --status`
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                    HARSHAN.AI SYSTEM                       │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  PERCEPTION      ████████████████████  ONLINE              │
-│  COMPUTER VISION ████████████████████  ONLINE              │
-│  DEEP LEARNING   ███████████████████░  ACTIVE              │
-│  AGENTIC AI      ███████████████████░  ACTIVE              │
-│  LLM SYSTEMS     ██████████████████░░  BUILDING            │
-│  BACKEND         ████████████████████  ONLINE              │
-│  REINFORCEMENT   ███████████████░░░░░  EXPLORING           │
-│                                                            │
-│  SYSTEM STATE: READY                                       │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- ========================= CURRENTLY BUILDING ========================= -->
-
-<div align="center">
-
-## 🧪 CURRENTLY BUILDING
-
-</div>
-
-```text
-01 ─ Autonomous AI agents
-02 ─ Multi-agent orchestration
-03 ─ Long-term vector memory
-04 ─ LLM tool-use systems
-05 ─ Real-time computer vision
-06 ─ AI perception pipelines
-07 ─ Low-latency AI deployment
-08 ─ Intelligent backend systems
-```
-
----
-
-<!-- ========================= ENGINEERING PHILOSOPHY ========================= -->
-
-<div align="center">
-
-## 🧠 ENGINEERING PHILOSOPHY
+# 🧠 ENGINEERING PHILOSOPHY
 
 > **Don't stop at the model.**
->
-> Build the perception layer.  
-> Build the reasoning layer.  
-> Build the memory.  
-> Build the tools.  
-> Build the system.
+
+~~~text
+              ┌─────────────┐
+              │  PERCEPTION │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │  REASONING  │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   MEMORY    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │  PLANNING   │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │    TOOLS    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   ACTION    │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │   LEARNING  │
+              └─────────────┘
+~~~
 
 </div>
 
 ---
 
-<!-- ========================= EDUCATION ========================= -->
+<div align="center">
+
+# 🧪 CURRENTLY BUILDING
+
+~~~text
+01  Autonomous AI Agents
+02  Multi-Agent Orchestration
+03  Long-Term Vector Memory
+04  LLM Tool-Use Systems
+05  Real-Time Computer Vision
+06  AI Perception Pipelines
+07  Low-Latency AI Deployment
+08  Intelligent Backend Systems
+09  Reinforcement Learning Systems
+10  AI Automation
+~~~
+
+</div>
+
+---
 
 <div align="center">
 
-## 🎓 EDUCATION
+# 🎓 EDUCATION
 
 ### B.Tech — Artificial Intelligence & Data Science
 
@@ -590,32 +618,42 @@ Chennai, Tamil Nadu, India
 
 ---
 
-<!-- ========================= CONNECT ========================= -->
-
 <div align="center">
 
 # 📡 CONNECT
 
-[![Email](https://img.shields.io/badge/Email-harshanalagarsamy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshanalagarsamy@gmail.com)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshan%20Alagarsamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshan-alagarsamy-051716214)
+<a href="mailto:harshanalagarsamy@gmail.com">
+<img src="https://img.shields.io/badge/Email-harshanalagarsamy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshan--portfolio--ver2.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00ffcc)](https://harshan-portfolio-ver2.vercel.app)
+<a href="https://linkedin.com/in/harshan-alagarsamy-051716214">
+<img src="https://img.shields.io/badge/LinkedIn-Harshan_Alagarsamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-harshan490-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshan490)
+<a href="https://harshan-portfolio-ver2.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=00FFCC">
+</a>
 
-<br/>
+<a href="https://github.com/harshan490">
+<img src="https://img.shields.io/badge/GitHub-harshan490-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-### `> END OF TRANSMISSION`
+<br><br>
 
-```text
-BUILD  →  BREAK  →  LEARN  →  REBUILD  →  SHIP
-```
+~~~text
+BUILD → BREAK → LEARN → REBUILD → SHIP
+~~~
 
-*"Build systems that see, reason, and act."*
+### *"Build systems that see, reason, and act."*
 
 </div>
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn" width="100%">
+
+</div>
