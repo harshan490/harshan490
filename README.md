@@ -441,15 +441,9 @@ ROLE
 
 <div align="center">
 
-# 🗓️ FULL YEAR CONTRIBUTION CALENDAR
+# 📅 CONTRIBUTION STREAK MATRIX
 
-<br>
-
-<img src="https://ghchart.rshah.org/00ffcc/harshan490" width="95%" alt="GitHub Contribution Calendar">
-
-<br><br>
-
-<sub>GitHub contribution activity across the year</sub>
+<img src="./metrics.plugin.isocalendar.fullyear.svg" width="95%" alt="GitHub Contribution Streak Calendar">
 
 </div>
 
